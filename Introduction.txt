@@ -1,4 +1,4 @@
- HTML
+Introduction to HTML
 
 1. What is Web ?
    -- world wide web (www) that also called as Web .
@@ -16,5 +16,3 @@ HTTP : Hyper Text Transfer protocol
    -- it is a page that we see on our browser in the form of some desgin like forms, any website.
 
 
-
-   

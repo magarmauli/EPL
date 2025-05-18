@@ -1,10 +1,7 @@
-Hosting :  aapla loptop madhla project jr bakichya chyana share karaycha asn tr aaplyla to host/deploy karav lagto thyla aapn hosting.deployed.
-
-## What is Hosting?
+ What is Hosting?
 
 Hosting mhnje aapla website/project internet var upload karun dusryana access dya. Tumhi project tumchya laptop var banavla tari dusre lok baghu shakat nahi, tyasathi to "host" karava lagto.
 
-------------------------------------------------------------
 
 ## Key Concepts
 
@@ -39,7 +36,6 @@ Hosting mhnje aapla website/project internet var upload karun dusryana access dy
 3. Project folder drag-and-drop kara.
 4. Netlify URL deto (ud: https://your-site.netlify.app).
 
-------------------------------------------------------------
 
 ## Example: Render var Fullstack App Hosting
 
@@ -49,7 +45,6 @@ Hosting mhnje aapla website/project internet var upload karun dusryana access dy
 4. Render build & deploy karto.
 5. Live URL milto.
 
-------------------------------------------------------------
 
 ## Summary Table
 
@@ -61,7 +56,6 @@ Hosting mhnje aapla website/project internet var upload karun dusryana access dy
 | GitHub Pages  |      Yes      |      No        |   Yes     |     Yes       |
 | Firebase      |      Yes      |     Limited    |   Yes     |     Yes       |
 
-------------------------------------------------------------
 
 
 Hosting in simple word :  aapla loptop madhla project jr bakichya chyana share karaycha asn tr aaplyla to host/deploy karav lagto thyla aapn hosting.deployed.
